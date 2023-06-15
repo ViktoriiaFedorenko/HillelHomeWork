@@ -1,0 +1,25 @@
+body
+{
+   background-color: SlateGrey;
+   background-color:Gainsboro;
+}
+.but
+{
+   border: none;
+   outline: 0;
+   display: inline-block;
+   padding: 8px;
+   color: 	powderblue;
+   background-color: teal;
+   text-align: center;
+   cursor: pointer;
+   width: 10%;
+}
+h1, h2 
+{
+   color: midnightblue;
+}
+img
+{
+   border-radius: 8px;
+}
